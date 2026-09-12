@@ -20,7 +20,7 @@ Late deliveries were hurting **customer trust**. With 173K total orders and 95K 
 - Track on-time delivery% monthly to measure improvement.
 
 ## Tools Used
-Power BI, DAX, Power Query
+Python, Power BI, DAX, Power Query
 
 ## Author
 Saloni Kushwah
